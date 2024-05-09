@@ -1,6 +1,6 @@
 # Apresentação 02:
 
-## Objetivo
+## Introdução
 Esta página tem como foco o vídeo de apresentação da etapa 02 do projeto. A gravação da apresentação ocorreu no dia 06/05/2024.
 
 ## Apresentação
@@ -18,3 +18,4 @@ Esta página tem como foco o vídeo de apresentação da etapa 02 do projeto. A 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 06/05/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika)
+`1.1` | 09/05/2024 | Muda subtitulo "Objetivo" para "Introdução" | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://www.github.com/)
