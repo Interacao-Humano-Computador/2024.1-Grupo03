@@ -30,4 +30,11 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc)   |
+| `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc) |
+
+[GabrielfGH]: https://github.com/MMcLovin
+[GabrielbGH]: https://github.com/https://github.com/Bertolazi
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://www.github.com/EliasOliver21
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
