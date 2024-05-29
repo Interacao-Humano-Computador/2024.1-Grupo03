@@ -171,13 +171,13 @@ Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figu
 
 <center>
 
-![legenda](../../assets/analiseHTA/Pre-postagemHTA.jpg)
+![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg)
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Pre-postagemHTA.jpg).
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg).
 
 <font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
 
