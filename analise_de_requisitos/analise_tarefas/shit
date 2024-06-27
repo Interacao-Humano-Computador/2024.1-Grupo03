@@ -1,0 +1,25 @@
+| objetivos | operações **problema**s e recomendações |
+| --- | --- |
+| 0 Realizar pré-postagem 1 > 2 > 3| **input**: dados da pré-postagem e meio de pagamento <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
+| 1 informar dados da pré-postagem 1 + 2| **input**: dados do remetente, destinatario e objeto <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
+| 1.1 informar destinatario e remetente | <br>**input**: Nome, Email, Telefone, CEP, Endereçõ e CPF <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário <br>**plano**: informar nome, CEP e número do remetente e destinatário |
+| 1.1.1 informar dados do remetente | |
+| 1.1.2 informar dados do destinatario | |
+| 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
+| 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
+| 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
+| 1.2.2.1 Número e chave da NF-e | |
+| 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
+| 1.2.2.3 Confirmar e adicionar informações | |
+| 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+| 1.3.1 Escolher SEDEX | |
+| 1.3.2 Escolher PAC | |
+| 1.4 Adicionar pré-postagem ao carrinho | |
+| 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+| 2.1 Prosseguir com pagamento | |
+| 2.2 Inserir nova pré-postagem | |
+| 2.3 Limpar carrinho | |
+| 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+| 3.1 Pagar com cartão de crédito| |
+| 3.2 Pagar com boleto| |
+| 3.3 Pagar com PIX| |
